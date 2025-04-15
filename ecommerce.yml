@@ -1,6 +1,6 @@
 jwt:
-  secret: a2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9==
-  token_expiration_time: 8640000012
+  secret: '{cipher}AQAYZdZOYuT7nMeIt76wuc2f+13rJLC++CVfyAFVCBYdzVeu6ZLjK/PDLh//PI5TPaIkbWNHtTOTt1hIE2QbZ9Lz5e40FPHLnGT6AxMwMscccfdJJUnoVY1YKVT7uMcZthDnee18cEpBMHSlhS6Uh0GE2pmVvljXUT1rVZc4XpxArfFNahajbVpDNc5ZE21zgErh0snNUNEmvrWPkEL/4i1nqw6SiMacwo3M/wPKmDxkfjJt4cioyf+jIXS13UPptM5Q5GvQk57edv+R6D+6MASJ8HdC/2P3Bp7rV+NNSSCPuxnYLYonBuHwajUSb5+J28VB5OvHWBsgqD4wUjMVfpQpnCbUqMmFbW3tgE4qDHLcN0x4oR0qdMkZDlY84lV9FN2Y4LwAaUKHqeFSnSw1pAXO'
+  token_expiration_time: 8640000000
 
 gatewat:
-  ip: 192.168.0.8
+  ip: 192.168.0.7
