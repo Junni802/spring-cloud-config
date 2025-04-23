@@ -9,7 +9,7 @@ jwt:
   secret: a2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9==userService
   token_expiration_time: 8640000000
 
-gatewat:
+gateway:
   ip: 172.18.0.5
 
 order_service:
