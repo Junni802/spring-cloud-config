@@ -2,5 +2,5 @@ jwt:
   secret: my-tocken==
   token_expiration_time: 8640000012
 
-gatewat:
+gateway:
   ip: 192.168.0.8
