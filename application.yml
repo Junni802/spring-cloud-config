@@ -2,5 +2,5 @@ jwt:
   secret: a2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9rYXJpbXRva2FyaW10b2thcmltdG9==applicationTest#
   token_expiration_time: 8640000000
 
-gatewat:
+gateway:
   ip: 192.168.0.7
